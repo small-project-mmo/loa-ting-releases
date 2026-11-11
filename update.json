@@ -1,8 +1,9 @@
 {
-  "version": "1.2.0",
-  "url": "https://github.com/small-project-mmo/loa-ting-releases/releases/download/v1.2.0/loa-ting-1.2.0.bin",
+  "version": "1.8.0",
+  "url": "https://github.com/small-project-mmo/loa-ting-releases/releases/download/v1.8.0/loa-ting-1.8.0.bin",
+  "size": 3895008,
   "notes": {
-    "vi": "Bản hiện tại.",
-    "en": "The current version."
+    "vi": "Hết rớt luồng podcast, nhạc giữa chừng. Thêm kênh podcast Xe & Đời sống.",
+    "en": "No more podcast and music streams dropping mid-play. New podcast channel: Cars & Life."
   }
 }

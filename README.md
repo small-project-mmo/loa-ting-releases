@@ -10,7 +10,7 @@
 
 [![Website](https://img.shields.io/badge/🌐_esp32.viennv.dev-1E2A44?style=for-the-badge)](https://esp32.viennv.dev)
 [![Nhóm Zalo](https://img.shields.io/badge/💬_Nhóm_Zalo-Hỏi_đáp-0068FF?style=for-the-badge)](https://zalo.me/g/cmx8rrljb8wxfl5uehfn)
-![Tải về](https://img.shields.io/badge/⬇️_Tải_về-Coming_soon-F5C518?style=for-the-badge)
+[![Tải về](https://img.shields.io/badge/⬇️_Tải_về-Firmware_1.8.0-F5C518?style=for-the-badge)](https://github.com/small-project-mmo/loa-ting-releases/releases/latest)
 [![viennv.dev](https://img.shields.io/badge/viennv.dev-1e293b?style=for-the-badge)](https://viennv.dev)
 
 </div>
@@ -80,12 +80,13 @@ Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem
 
 ## 📥 Tải về
 
-**Coming soon.** Chưa có bản phát hành nào. Bản đầu tiên sẽ có ở trang Releases của repo này: firmware kèm công cụ nạp, và file in vỏ (3MF, STL, bản vẽ).
+- **Firmware 1.8.0:** nạp ngay trên trình duyệt ở trang [Nạp firmware](https://esp32.viennv.dev/flash/), hoặc tải các file `.bin` ở trang [Releases](https://github.com/small-project-mmo/loa-ting-releases/releases/latest) để nạp bằng `esptool` (lệnh có trong ghi chú bản phát hành). Loa đã cài sẽ tự báo khi có bản mới, bấm Cập nhật mới cài.
+- **File in vỏ** (3MF, STL, bản vẽ): sắp có.
 
 ## 🛠️ Tự làm một chiếc
 
 1. **In vỏ, chuẩn bị:** in 5 chi tiết từ file 3MF. Cần thêm mạch ES3C28P (kèm loa), một pin 18650 và một công tắc nhỏ.
-2. **Nạp firmware:** cắm mạch vào máy tính bằng USB-C rồi nạp ngay trên trình duyệt ở trang [Nạp firmware](https://esp32.viennv.dev/flash/), hoặc nhấp đúp `nap-firmware.command` (macOS). Cập nhật về sau vẫn giữ Wi-Fi và cài đặt.
+2. **Nạp firmware:** cắm mạch vào máy tính bằng USB-C rồi nạp ngay trên trình duyệt ở trang [Nạp firmware](https://esp32.viennv.dev/flash/), hoặc dùng `esptool` với các file ở trang [Releases](https://github.com/small-project-mmo/loa-ting-releases/releases/latest). Cập nhật về sau vẫn giữ Wi-Fi và cài đặt.
 3. **Cài bằng điện thoại:** vào Wi-Fi “Xiaozhi-xxxx” của loa để chọn mạng nhà, rồi quét mã trên loa để mở trang cài đặt.
 
 ## 💬 Nhóm Zalo
