@@ -27,10 +27,10 @@
       "update": true
     },
     {
-      "file": "1.8.0/xiaozhi.bin",
+      "file": "1.8.0/loa-ting-1.8.0.bin",
       "address": "0x20000",
-      "size": 3895024,
-      "sha256": "2f6fe65816c734875024c4af77987722c7b794ed762f60fac57740e9f6bc9c61",
+      "size": 3895008,
+      "sha256": "479631cafbd5d3bd037574e75b5298cf93df11e2ac6875c460afae627a6faa0a",
       "update": true
     },
     {
