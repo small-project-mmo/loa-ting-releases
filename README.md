@@ -60,7 +60,7 @@ Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem
 
 📐 **[Trang Vỏ in 3D](https://esp32.viennv.dev/case/)**: so sánh 3 kiểu vỏ, thông số, cấu tạo, lý do thiết kế và mô hình 3D của từng vỏ.
 
-🔌 **[Nạp firmware](https://esp32.viennv.dev/flash/)**: nạp ngay trên Chrome/Edge qua cáp USB, có từng bước và phần trăm (mở khi phát hành).
+🔌 **[Nạp firmware](https://esp32.viennv.dev/flash/)**: nạp ngay trên Chrome/Edge qua cáp USB, có từng bước và phần trăm.
 
 📘 **[Tài liệu](https://esp32.viennv.dev/docs/)**: tự cài máy chủ nhạc và khung ảnh Google Photos, hoặc nối loa với nguồn báo biến động số dư (qua LAN hay máy chủ riêng, kèm máy chủ mẫu Python).
 
@@ -76,12 +76,12 @@ Video review gần 5 phút: vỏ in 3D, rồi từng ứng dụng trên loa. Xem
 - **[Nghiêng 20°](https://esp32.viennv.dev/3d/hud-tilted/):** 127 × 69 × 35 mm, 3 chi tiết, khoảng 47 g; hợp kính lái 30–35°.
 - **[Thân phẳng trên đế 5 nấc](https://esp32.viennv.dev/3d/hud-flat/):** thân 127 × 63 × 20 mm, chỉnh 10–40° cho mọi góc kính; 6 chi tiết, bản lề in liền, không chốt, không vít, khoảng 130 g.
 - Cả hai: màu đen, loa của bộ mạch nằm cạnh màn để đọc cảnh báo, cổng USB-C bên trái hoặc phải có viền in rời, không pin (cắm nguồn xe), miếng thép trong đáy để hít giá nam châm. Nên in PETG hoặc ASA.
-- Đã có file in (STL, 3MF); file sẽ có trong bản phát hành.
+- File in vỏ HUD nghiêng (bản có loa) có trong bản phát hành; vỏ HUD phẳng: liên hệ trong nhóm Zalo.
 
 ## 📥 Tải về
 
 - **Firmware 1.8.0:** nạp ngay trên trình duyệt ở trang [Nạp firmware](https://esp32.viennv.dev/flash/), hoặc tải các file `.bin` ở trang [Releases](https://github.com/small-project-mmo/loa-ting-releases/releases/latest) để nạp bằng `esptool` (lệnh có trong ghi chú bản phát hành). Loa đã cài sẽ tự báo khi có bản mới, bấm Cập nhật mới cài.
-- **File in vỏ** (3MF, STL, bản vẽ): sắp có.
+- **File in vỏ** (3MF, STL, bản vẽ PDF): vỏ để bàn và vỏ HUD nghiêng (có loa) tải ở [trang Vỏ in 3D](https://esp32.viennv.dev/case/#tai-ve) hoặc trang Releases. Vỏ HUD phẳng: liên hệ trong [nhóm Zalo](https://zalo.me/g/cmx8rrljb8wxfl5uehfn).
 
 ## 🛠️ Tự làm một chiếc
 
